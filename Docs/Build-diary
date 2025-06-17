@@ -1,0 +1,21 @@
+# Invictus Trading - Build Diary
+
+## Session #1 - Planning & Initial Setup
+[Previous content remains the same]
+
+## Session #2 - Architecture Clarification & Mobile-First Design
+**Date:** [Today's Date]  
+**Hours:** 4  
+**Lines Added:** ~200 (planning/architecture phase)  
+**Total Lines:** 7,200  
+
+### 🎯 Session Goals
+- [x] Create folder structure planning
+- [x] Realize need for 24/7 backend architecture  
+- [x] **CLARIFY: Frontend authorizes, Backend executes**
+- [x] Design mobile-first approach
+- [x] Plan proper wallet authorization flow
+
+### 💡 Critical Architecture Understanding
+
+**The platform has TWO parts that work together:**
